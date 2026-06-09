@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Burger-Web-Application/static/css/main.c52c453e.css",
+    "main.js": "/Burger-Web-Application/static/js/main.b10fe24d.js",
+    "static/js/453.d71f3fc1.chunk.js": "/Burger-Web-Application/static/js/453.d71f3fc1.chunk.js",
+    "index.html": "/Burger-Web-Application/index.html",
+    "main.c52c453e.css.map": "/Burger-Web-Application/static/css/main.c52c453e.css.map",
+    "main.b10fe24d.js.map": "/Burger-Web-Application/static/js/main.b10fe24d.js.map",
+    "453.d71f3fc1.chunk.js.map": "/Burger-Web-Application/static/js/453.d71f3fc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52c453e.css",
+    "static/js/main.b10fe24d.js"
+  ]
+}
